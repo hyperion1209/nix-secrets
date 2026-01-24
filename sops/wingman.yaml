@@ -1,6 +1,6 @@
 keys:
     marius:
-        user_age: ENC[AES256_GCM,data:wYdzd7A5QPVQ2bh7PFEtBECVrFPSAJHkln0e2QXfGCjP38aJ4CUv7x/9wvHTYpAXzVHiowaBRcOEsVMcR4Lo+6+bV4yufMRob7Q=,iv:yMSIaxpHhSu/Z/M0M9qcfC+UVJYh2tfoevsQZMRFlj0=,tag:TJr8JHTBztiv3wOTYGM5iQ==,type:str]
+        age: ENC[AES256_GCM,data:ozM9BH3RVv5D9HqaHNKW8pidsfucDkcEclSnq9k+9amymn4cDUVjsW+D7wHlUCuOYiVJovHZ8QUH6syVDiPfTKpueZE8y16QqQE=,iv:oATFShUbHI/dxGsUkO/1Eg0FeLTRdlqPemjR3dIeDjc=,tag:GEaap3HZ0cVgfTqGzGzFeQ==,type:str]
         ssh: {}
 certificates: {}
 tokens:
@@ -46,7 +46,7 @@ sops:
             MmFTOHJrWERuY2NiMUNNK2gxTzJiaVEKjKXD43LXAmMx/6nQ6eIHktkhNLdYHQUB
             KpICYyOFnK7g3ajtRaVJwS4OPjFASEwwvoWMBRDOsHzY2wWsIAvQWw==
             -----END AGE ENCRYPTED FILE-----
-    lastmodified: "2026-01-24T12:47:17Z"
-    mac: ENC[AES256_GCM,data:8/TEG5TpiHtzHixibVB/qTJs5THVKKfwpneZTgRkCTYoVt9Ic/kZh/hy+WEw9KKpRo2lewyawxmhxn0WBBTvt3G68HUS2PjhDxr+uF6ctFCP95gwIVYbNBjya+GcWaYp7nHvcoJK4qP2Ckm9VfhbAbBVInk3FZXDOYyAhhw2FCU=,iv:nxDtwGjqq8/1Iia9ajAxhNYp+fmWr3xqvbJslQT2JlY=,tag:8u/BAaTfquucS/IhjvN1nQ==,type:str]
+    lastmodified: "2026-01-24T13:32:05Z"
+    mac: ENC[AES256_GCM,data:vrEH+HR3HzW1sWvajQGClj+3XUozU9vF7aWwuSc/c6/eikP9KazzLWwvfFT3zLWOcIc2N/PalC4P+Q9CfM3EEs4PS6V9XVd01omSL+ENVC27M5lU7hYcb1Ptzi6PXZb8hFFnU1Wr88G2MucAV8x9RQSMR5T/pUfAz8M6g2gCt2M=,iv:PhXq5J33+SMTJ55aXyEWW2EKPDAr+vuKulEPPEwBuaI=,tag:VtD4tkCgA0chnrr41B23Ow==,type:str]
     unencrypted_suffix: _unencrypted
     version: 3.11.0
