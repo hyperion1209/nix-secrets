@@ -20,7 +20,7 @@
     # Return a set of host attrs
     makeHost = name: ip: tsIP: mac: user: {
       ${name} = {
-        inherit name ip mac user;
+        inherit name ip tsIP mac user;
       };
     };
     defaultUser = "marius";
