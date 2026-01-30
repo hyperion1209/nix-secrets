@@ -42,6 +42,12 @@
             (makeHost "maverick" "192.168.1.124" "100.79.196.111" "98:fa:9b:43:03:21" defaultUser)
             (makeHost "claymore" "192.168.1.125" "100.87.99.49" "f8:75:a4:bf:ad:17" defaultUser)
           ];
+        }
+        // {
+          nameservers = [
+            "1.1.1.1"
+            "1.0.0.1"
+          ];
         };
     };
 
