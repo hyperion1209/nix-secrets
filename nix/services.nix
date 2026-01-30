@@ -2,7 +2,9 @@ _: {
   #
   # ========== Service secrets ==========
   #
-  servicename = {
-    secretKey = <DATA>;
+  services = {
+    servicename = {
+      secretKey = <DATA>;
+    };
   };
 }
